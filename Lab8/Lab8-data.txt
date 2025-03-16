@@ -1,0 +1,4 @@
+John|Doe|35|Engineer
+Jane|Smith|29|Doctor
+Alice|Johnson|42|Teacher
+Bob|Brown|31|Artist
